@@ -1,0 +1,23 @@
+#frame {
+	width: 647px;
+	height: 400px; 
+	position: relative;
+}
+
+#text_tray {
+	position: relative;
+}
+.text {
+	
+	width: 647px;
+	height: 400px;
+	z-index: 1;
+	
+	
+}
+#slide_up {
+	display: block;
+	position: absolute;
+	top: 87%;
+	padding: 5px;
+}
